@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Ivan**
 #### Full-Stack Developer
-![Full-Stack Developer](https://creamosideasweb.com/wp-content/uploads/2017/11/responsive-web-designs-1.gif)
+![Full-Stack Developer](https://eurpytmcyty.exactdn.com/wp-content/uploads/2020/02/sitio-hosting2-1.gif?strip=all&lossy=1&resize=430%2C307&ssl=1)
 
 ¡Hola que tal! Saludos cordiales
 ¡Conózcanme un poquito!
@@ -19,9 +19,5 @@ Skills: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kardon-14)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/kardon-14&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/kardon-14)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/kardon-14)  
 
 
