@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Ivan**
 #### Full-Stack Developer
-![Full-Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full-Stack Developer](https://creamosideasweb.com/wp-content/uploads/2017/11/responsive-web-designs-1.gif)
 
 ¡Hola que tal! Saludos cordiales
 ¡Conózcanme un poquito!
